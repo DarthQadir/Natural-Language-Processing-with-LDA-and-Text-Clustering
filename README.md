@@ -5,7 +5,7 @@ This repository serves as a guide for LDA, Semantic Similarity, and Text Cluster
 
 **An article that goes into depth about all these steps and the notebook can be found here (will put link once others have uploaded their medium article, and my own medium article is published)**
 
-<br><br>
+<br>
 
 The Jupyter Notebook in the repository contains 3 sections:
 
