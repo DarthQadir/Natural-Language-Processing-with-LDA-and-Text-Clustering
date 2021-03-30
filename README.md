@@ -3,7 +3,7 @@ This repository serves as a guide for LDA, Semantic Similarity, and Text Cluster
   <br></br>
 </h3>
 
-**An article that goes into depth about all these steps and the notebook can be found here (will put link once others have uploaded their medium article, and my own medium article is published)**
+**An article that goes into depth about all these steps and the notebook can be found <a href="https://towardsdatascience.com/nlp-with-lda-latent-dirichlet-allocation-and-text-clustering-to-improve-classification-97688c23d98"> here </a>**
 
 <br>
 
